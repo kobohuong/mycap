@@ -27,3 +27,10 @@ mta_archives/
 # IDEs
 # .vscode
 # .idea
+
+# auto generated wildcard
+mycap/gen/db/.env
+# auto generated wildcard
+cloud-cap-risk-management/gen/db/.env
+# auto generated wildcard
+mycap/gen/db/.env

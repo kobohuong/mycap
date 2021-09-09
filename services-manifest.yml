@@ -4,5 +4,5 @@
 create-services:
 # ------------------------------------------------------------
   - name:   mycap-db
-    broker: hanatrial  # 'hanatrial' on trial landscapes
+    broker: hana  # 'hanatrial' on trial landscapes
     plan: "hdi-shared"
